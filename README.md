@@ -102,7 +102,7 @@ app.get("", async (req, res) => {
 });
 ```
 
-[Read more on options]()
+[Read more on options](https://github.com/chaitanyamogal/pdf-maker/blob/main/docs/pdfFormatOptions.md)
 
 ### template for the above example (save the template with .hbs extension)
 
@@ -127,9 +127,11 @@ app.get("", async (req, res) => {
 
 ## Resources
 
-- [Read how to generate dynamic PDF using the Mysql database]().
+- [Read how to generate dynamic PDF using the Mysql database](https://github.com/chaitanyamogal/pdf-maker/blob/main/example/pfdWithMysql.md).
 
-- [Read more on .hb template]().
+- [Read more on .hb template](https://github.com/chaitanyamogal/pdf-maker/blob/main/docs/htmlTemplateFormating.md).
+
+- [More PDF formating options](https://github.com/chaitanyamogal/pdf-maker/blob/main/docs/pdfFormatOptions.md).
 
 ## Contributing
 
@@ -137,4 +139,4 @@ Feel free to contribute. Your contribution will be appreciated.
 
 ## License
 
-pdf-master is [MIT licensed]().
+pdf-master is [MIT licensed](https://github.com/chaitanyamogal/pdf-maker/blob/main/LICENSE).
