@@ -1,0 +1,35 @@
+{
+  "name": "pdf-master",
+  "version": "1.0.0",
+  "description": "\"npm package to generate static and dynamic PDF in nodejs.\"",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chaitanyamogal/pdf-maker.git"
+  },
+  "keywords": [
+    "pdf",
+    "pdf generator",
+    "pdf document",
+    "nodejs pdf",
+    "html2pdf",
+    "html to pdf",
+    "template",
+    "make pdf",
+    "generate pdf",
+    "create pdf"
+  ],
+  "author": "chaitanya mogal <chaitanyamogal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaitanyamogal/pdf-maker/issues"
+  },
+  "homepage": "https://github.com/chaitanyamogal/pdf-maker",
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "puppeteer": "^19.4.1"
+  }
+}
