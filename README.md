@@ -3,7 +3,7 @@
 The simplest way to generate static and dynamic PDF in NodeJS. Converts HTML(with `.hbs` extension) template into
 PDF.
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/chaitanyamogal/pdf-maker/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/chaitanyamogal/pdf-master/blob/main/LICENSE)
 
 ## Features
 
@@ -102,7 +102,7 @@ app.get("", async (req, res) => {
 });
 ```
 
-[Read more on options](https://github.com/chaitanyamogal/pdf-maker/blob/main/docs/pdfFormatOptions.md)
+[Read more on options](https://github.com/chaitanyamogal/pdf-master/blob/main/docs/pdfFormatOptions.md)
 
 ### template for the above example (save the template with .hbs extension)
 
@@ -127,11 +127,11 @@ app.get("", async (req, res) => {
 
 ## Resources
 
-- [Read how to generate dynamic PDF using the Mysql database](https://github.com/chaitanyamogal/pdf-maker/blob/main/example/pfdWithMysql.md).
+- [Read how to generate dynamic PDF using the Mysql database](https://github.com/chaitanyamogal/pdf-master/blob/main/example/pfdWithMysql.md).
 
-- [Read more on .hb template](https://github.com/chaitanyamogal/pdf-maker/blob/main/docs/htmlTemplateFormating.md).
+- [Read more on .hb template](https://github.com/chaitanyamogal/pdf-master/blob/main/docs/htmlTemplateFormating.md).
 
-- [More PDF formating options](https://github.com/chaitanyamogal/pdf-maker/blob/main/docs/pdfFormatOptions.md).
+- [More PDF formating options](https://github.com/chaitanyamogal/pdf-master/blob/main/docs/pdfFormatOptions.md).
 
 ## Contributing
 
@@ -139,4 +139,4 @@ Feel free to contribute. Your contribution will be appreciated.
 
 ## License
 
-pdf-master is [MIT licensed](https://github.com/chaitanyamogal/pdf-maker/blob/main/LICENSE).
+pdf-master is [MIT licensed](https://github.com/chaitanyamogal/pdf-master/blob/main/LICENSE).
